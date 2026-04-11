@@ -1,10 +1,9 @@
- # Hello Word! I'm Gustavo Elias
+ # Hello Word! I'm Gustavo Elias🇧🇷
 - 💻 I’m graduating in Science of computation.
 - ☕ I’m learning Java and Python.
 - 🔙 I focus on backend. 
-- 😄 Pronouns: he/him
- 
-    
+
+   
 ---
 
 ### 🤖 Linguagens e Tecnologias

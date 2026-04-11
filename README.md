@@ -1,6 +1,6 @@
  # Hello Word! I'm Gustavo Elias
 - 💻 I’m graduating in Science of computation.
-- ☕ I’m learning Java and Python.
+- ☕ I’m learning Java, Python and Git.
 - 🔙 I focus on backend. 
 - Brazil🇧🇷
    

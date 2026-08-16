@@ -1,5 +1,5 @@
  # Hello Word! I'm Gustavo Elias
-- 💻 I’m graduating in Science of computation in University Tiradentes
+- 💻 I’m graduating in Computer Science in University Tiradentes
 - ☕ I’m learning Java, Python and Git.
 - 🔙 I work in backend and frontend. 
 - Brazil🇧🇷
